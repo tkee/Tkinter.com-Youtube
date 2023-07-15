@@ -3,7 +3,7 @@ from tkinter import ttk
 
 root = Tk()
 root.title('Tkinter.com - Style Individual Widgets')
-root.iconbitmap('c:/tkinter.com/images/codemy.ico')
+root.iconbitmap('codemy.ico')
 root.geometry("500x350")
 
 # Define a Style Widget
